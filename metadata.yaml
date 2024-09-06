@@ -1,0 +1,50 @@
+_repo: Traitor-or-patriot-b-A-tale-of-the-Rye-House-Plot_74255
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Murray, Charles Oliver
+    alias: Murray, C. O. (Charles Oliver)
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '57413'
+    url: http://www.gutenberg.org/2009/agents/57413
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Oliver_Murray
+  - agent_name: Staniland, Charles Joseph
+    aliases:
+    - Staniland, C. J. (Charles Joseph)
+    - Staniland, C.J.
+    birthdate: 1838
+    deathdate: 1916
+    gutenberg_agent_id: '9714'
+    url: http://www.gutenberg.org/2009/agents/9714
+creator:
+  author:
+    agent_name: Rowsell, Mary C. (Mary Catherine)
+    alias: Rowsell, Mary Catherine
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '52986'
+    url: http://www.gutenberg.org/2009/agents/52986
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Catherine_Rowsell
+description: ''
+gutenberg_issued: '2024-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74255'
+language: en
+pgterms:marc904: https://archive.org/details/traitororpatriot00rowsiala
+pgterms:marc905: 20240724150038rowsell
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bBlackie and Son Limited, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Charles II, 1660-1685 -- Fiction'
+- !lcsh 'Rye House Plot, 1683 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Traitor or patriot? : $b A tale of the Rye-House Plot'
+url: http://www.gutenberg.org/ebooks/74255
