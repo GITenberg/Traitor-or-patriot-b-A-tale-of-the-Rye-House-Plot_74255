@@ -17,6 +17,9 @@ contributor:
     deathdate: 1916
     gutenberg_agent_id: '9714'
     url: http://www.gutenberg.org/2009/agents/9714
+covers:
+- cover_type: archival
+  image_path: 74255-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Rowsell, Mary C. (Mary Catherine)
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52986
     wikipedia: https://en.wikipedia.org/wiki/Mary_Catherine_Rowsell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74255#Traitor-or-patriot-b-A-tale-of-the-Rye-House-Plot
 gutenberg_issued: '2024-08-14'
 gutenberg_type: Text
 identifiers:
